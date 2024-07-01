@@ -4,13 +4,13 @@
 // Create a popup dialog box displaying the vault codes and the text.
 // Push up your code to GitHub and submit the GitHub link.
 function vaultCode() {
-    // declaring code 1 as integer and calculation 10 (5 * 2)
+    // declaring code1 as integer and calculation of 10:(5 * 2)
     const code1 = 5 * 2;
   
-    // Calculation 2: 40 (30 + 10)
+    // declaring code2 as integer and calculation of 40:(30+10)
     const code2 = 30 + 10;
   
-    // Calculation 3: 39 (60 / 1.5 - 1)
+    // declaring code3 as integer and calculation of 39:(60 / 1.5 - 1)
     const code3 = (60 / 1.5) - 1;
   
     // Combine codes into a formatted string
